@@ -1,0 +1,7 @@
+name: aqMouseStone
+version: ${project.version}
+main: com.adamuseq.aqmousestone.Main
+api-version: 1.8.8
+authors: [ Adamuseq ]
+description: Plugin na stoniarki, które aktywuje się prawym przyciskiem myszy.
+website: www.adamuseq.com
